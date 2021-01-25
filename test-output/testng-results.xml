@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16488" started-at="2021-01-11T16:13:03Z" finished-at="2021-01-11T16:13:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16488" started-at="2021-01-11T16:13:03Z" finished-at="2021-01-11T16:13:20Z">
+      <class name="com.adactinhotel.TestClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.adactinhotel.TestClass@6d4b1c02]" name="beforeClass" is-config="true" duration-ms="4718" started-at="2021-01-11T16:13:03Z" finished-at="2021-01-11T16:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adactinhotel.TestClass@6d4b1c02]" name="beforeMethod" is-config="true" duration-ms="58" started-at="2021-01-11T16:13:08Z" finished-at="2021-01-11T16:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLogin()[pri:1, instance:com.adactinhotel.TestClass@6d4b1c02]" name="testLogin" duration-ms="4122" started-at="2021-01-11T16:13:08Z" finished-at="2021-01-11T16:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adactinhotel.TestClass@6d4b1c02]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-01-11T16:13:12Z" finished-at="2021-01-11T16:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adactinhotel.TestClass@6d4b1c02]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-01-11T16:13:12Z" finished-at="2021-01-11T16:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testSearchHotel()[pri:2, instance:com.adactinhotel.TestClass@6d4b1c02]" name="testSearchHotel" duration-ms="2900" started-at="2021-01-11T16:13:12Z" finished-at="2021-01-11T16:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchHotel -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.adactinhotel.TestClass@6d4b1c02]" name="afterClass" is-config="true" duration-ms="4656" started-at="2021-01-11T16:13:15Z" finished-at="2021-01-11T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adactinhotel.TestClass@6d4b1c02]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-01-11T16:13:15Z" finished-at="2021-01-11T16:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.adactinhotel.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
